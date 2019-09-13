@@ -5,9 +5,7 @@ sections:
       - label: Learn More
         url: /features
     component: HeroBlock
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: This is the header of the pagee
     image: images/hero.png
     section_id: hero
     title: This Is A Big Hero Headline
